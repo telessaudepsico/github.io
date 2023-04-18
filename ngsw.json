@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1681807674835,
+  "timestamp": 1681809317582,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.a4ef3576b48f9acb.js",
+        "/main.5c4b963084e9dca5.js",
         "/manifest.webmanifest",
         "/polyfills.6815840734d0cccf.js",
         "/runtime.79bbf8b83a3e3501.js",
@@ -86,8 +86,8 @@
     "/assets/img/tela5.png": "3fbb2fa5f5b7a28b9a737248ab8bd06f7eb82b68",
     "/assets/img/tela6.png": "cbf3ea25b3c31e4a2656c8a124d4124844aa349d",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "de7c7363be314b0d120ffa87c15a0a3592c33fa7",
-    "/main.a4ef3576b48f9acb.js": "ade03bbe8e1b5c9aa0952d4abbae40aad0f3aa6a",
+    "/index.html": "51e240be4592a5ada2a8fdeb779106925e16a2f3",
+    "/main.5c4b963084e9dca5.js": "dba1096c8482813efc9464a8c2cbd60b9a4b1038",
     "/manifest.webmanifest": "a44e14c08c5f442a4d382b63ca0362a301f1dfbd",
     "/polyfills.6815840734d0cccf.js": "77539c2bb44d60a149ec4567d0700a8bb51f6479",
     "/runtime.79bbf8b83a3e3501.js": "d613866ab096c4774da2387770ee4c01978280a2",
