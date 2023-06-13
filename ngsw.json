@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1681809317582,
+  "timestamp": 1686623368483,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.5c4b963084e9dca5.js",
+        "/main.c3f6c51d978ac6b9.js",
         "/manifest.webmanifest",
         "/polyfills.6815840734d0cccf.js",
         "/runtime.79bbf8b83a3e3501.js",
@@ -54,7 +54,8 @@
         "/assets/img/tela3.png",
         "/assets/img/tela4.png",
         "/assets/img/tela5.png",
-        "/assets/img/tela6.png"
+        "/assets/img/tela6.png",
+        "/assets/img/telessaude01.jpg"
       ],
       "patterns": []
     }
@@ -85,9 +86,10 @@
     "/assets/img/tela4.png": "efaab329e5e3ae7e5918f24b04aa53bf23f0ec0e",
     "/assets/img/tela5.png": "3fbb2fa5f5b7a28b9a737248ab8bd06f7eb82b68",
     "/assets/img/tela6.png": "cbf3ea25b3c31e4a2656c8a124d4124844aa349d",
+    "/assets/img/telessaude01.jpg": "ea2184b4462f3caa62dfcdf5fd9e306a377e323b",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "51e240be4592a5ada2a8fdeb779106925e16a2f3",
-    "/main.5c4b963084e9dca5.js": "dba1096c8482813efc9464a8c2cbd60b9a4b1038",
+    "/index.html": "ee3f94298ec83f06906a169c9540423911b4eae4",
+    "/main.c3f6c51d978ac6b9.js": "ed99cde0bdf3ac366f5334ae2e19c37f4c6d7503",
     "/manifest.webmanifest": "a44e14c08c5f442a4d382b63ca0362a301f1dfbd",
     "/polyfills.6815840734d0cccf.js": "77539c2bb44d60a149ec4567d0700a8bb51f6479",
     "/runtime.79bbf8b83a3e3501.js": "d613866ab096c4774da2387770ee4c01978280a2",
